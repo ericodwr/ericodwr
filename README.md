@@ -14,6 +14,10 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericodwr)]
+
+
 
 
 
