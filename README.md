@@ -8,7 +8,11 @@
 
 ### Connect with me:
 
+[<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>][gmail]
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
+[<img src="https://img.icons8.com/color/48/000000/tiktok--v1.png"/>][tiktok]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+
 
 
 
