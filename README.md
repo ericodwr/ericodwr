@@ -1,9 +1,9 @@
 ### Hello, I'm Erico Dwi 👋 
 
-## i'm currently a students at UPN Veteran Jakarta
+## Front-End Developer || Undergraduate at UPN Veteran Jakarta
 
 - 💻 Here's some of my projects : [erico's projects][projects]
-- 🌱 I'm currently learning full-stack MERN
+- 🌱 I'm currently learning React Native
 - 🌐 I like listening music, play some video games, travelling
 
 ### Connect with me:
