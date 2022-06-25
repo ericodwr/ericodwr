@@ -3,7 +3,7 @@
 ## Front-End Developer || Undergraduate at UPN Veteran Jakarta
 
 - 💻 Here's some of my projects : [erico's projects][projects]
-- 🌱 I'm currently learning React Native
+- 🌱 I'm currently learning more about React 
 - 🌐 I like listening music, play some video games, travelling
 
 ### Connect with me:
