@@ -1,6 +1,6 @@
 ### Hello, I'm Erico Dwi 👋 
 
-## Front-End Developer || Undergraduate at UPN Veteran Jakarta
+## Front-End Developer
 
 - 💻 Here's some of my projects : [erico's projects][projects]
 - 🌱 I'm currently learning more about React 
