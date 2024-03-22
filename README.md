@@ -1,10 +1,6 @@
 ### Hello, I'm Erico Dwi 👋 
 
-## Front-End Developer
-
-- 💻 Here's some of my projects : [erico's projects][projects]
-- 🌱 I'm currently learning more about React 
-- 🌐 I like listening music, play some video games, travelling
+## Software Engineer
 
 ### Connect with me:
 
@@ -37,4 +33,3 @@
 [linkedin]: https://www.linkedin.com/in/ericodwir/
 [tiktok]: https://www.tiktok.com/@ocirex
 [gmail]: https://mail.google.com/mail/u/0/?to=erikodwirosadi12@gmail.com&fs=1&tf=cm
-[projects]: ''
