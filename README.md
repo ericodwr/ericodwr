@@ -1,4 +1,4 @@
-### Hello, I'm Erico Dwi 👋 
+### Hello, I'm Erico👋 
 
 ## Software Engineer
 
